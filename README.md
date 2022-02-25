@@ -1,2 +1,8 @@
 # hello-world
- my very first repository!
+
+ ## Things to Do
+ 
+ - [x] Learn HTML
+ - [ ] Learn CSS
+ - [ ] Learn JS
+ - [ ] React!
